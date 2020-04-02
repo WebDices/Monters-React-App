@@ -19,10 +19,6 @@ class App extends Component{
         {
           name:'Zombie',
           id: 'as1w'
-        },
-        {
-          name:'Zombie',
-          id: 'as1w1'
         }
 
       ]
