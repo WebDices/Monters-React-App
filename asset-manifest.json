@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monters-React-App/static/css/main.c94ed646.chunk.css",
+    "main.js": "/Monters-React-App/static/js/main.c89ee675.chunk.js",
+    "main.js.map": "/Monters-React-App/static/js/main.c89ee675.chunk.js.map",
+    "runtime-main.js": "/Monters-React-App/static/js/runtime-main.a0b1a791.js",
+    "runtime-main.js.map": "/Monters-React-App/static/js/runtime-main.a0b1a791.js.map",
+    "static/js/2.7bede9e7.chunk.js": "/Monters-React-App/static/js/2.7bede9e7.chunk.js",
+    "static/js/2.7bede9e7.chunk.js.map": "/Monters-React-App/static/js/2.7bede9e7.chunk.js.map",
+    "index.html": "/Monters-React-App/index.html",
+    "precache-manifest.658c8258e81a77728f0850d19d96107c.js": "/Monters-React-App/precache-manifest.658c8258e81a77728f0850d19d96107c.js",
+    "service-worker.js": "/Monters-React-App/service-worker.js",
+    "static/css/main.c94ed646.chunk.css.map": "/Monters-React-App/static/css/main.c94ed646.chunk.css.map",
+    "static/js/2.7bede9e7.chunk.js.LICENSE.txt": "/Monters-React-App/static/js/2.7bede9e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0b1a791.js",
+    "static/js/2.7bede9e7.chunk.js",
+    "static/css/main.c94ed646.chunk.css",
+    "static/js/main.c89ee675.chunk.js"
+  ]
+}
